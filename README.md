@@ -17,12 +17,14 @@ Request email report  |  Form validation
 Print log report  |  Email service
 Manage profile  |  Lazy loading
 
-## Screenshot ##
+##
+
+## Screenshot #1 ##
 <img src="https://user-images.githubusercontent.com/99865051/200730487-0ac8b052-344e-4c2d-b9cb-79d7516b4cf0.png">
 
 ##
 
-## Screenshot ##
+## Screenshot #2 ##
 <img src="https://user-images.githubusercontent.com/99865051/200730672-c0edd761-f443-4e74-a078-fe89b81fd790.png">
 
 ##
